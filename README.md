@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://cordeirolima.net"><img src="https://img.shields.io/badge/portfolio-dev.cordeirolima.net-1A1916?style=for-the-badge&labelColor=3B6D11" alt="Portfolio"></a>
+  <a href="https://cordeirolima.net"><img src="https://img.shields.io/badge/portfolio-cordeirolima.net-1A1916?style=for-the-badge&labelColor=3B6D11" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pedro-cordeiro/"><img src="https://img.shields.io/badge/linkedin-connect-1A1916?style=for-the-badge&logo=linkedin&logoColor=EAF3DE&labelColor=3B6D11" alt="LinkedIn"></a>
   <a href="mailto:pedro@cordeirolima.net"><img src="https://img.shields.io/badge/email-pedro@cordeirolima.net-1A1916?style=for-the-badge&labelColor=3B6D11" alt="E-mail"></a>
 </p>
