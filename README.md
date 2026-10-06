@@ -20,10 +20,6 @@ day_job:
   at:   Bosch
   what: conversational AI — building chatbots on Cognigy
 
-building:
-  at:   Stako  # co-founder
-  what: a website factory — Astro + Directus per client, Neon Postgres, Cloudflare
-
 freelance:
   at:   Cordeiro Lima
   what: connecting the isolated systems of small businesses with no in-house IT
