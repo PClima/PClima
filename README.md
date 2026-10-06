@@ -56,7 +56,7 @@ flowchart TB
 ### 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,astro,postgres,tailwind,cloudflare,git,linux&perline=9" alt="Java, Node.js, TypeScript, Astro, PostgreSQL, Tailwind, Cloudflare, Git, Linux">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,astro,postgres,tailwind,cloudflare,git,linux,docker,aws,&perline=9" alt="Java, Node.js, TypeScript, Astro, PostgreSQL, Tailwind, Cloudflare, Git, Linux, Docker, AWS, ">
 </p>
 
 <sub>Also in the daily rotation: Directus · Drizzle · Clerk · Railway · n8n · Cognigy</sub>
